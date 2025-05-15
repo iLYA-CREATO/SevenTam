@@ -1,8 +1,6 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
-using UnityEditorInternal.Profiling.Memory.Experimental;
 using UnityEngine;
 
 public class ItemGenerator : MonoBehaviour
@@ -33,8 +31,6 @@ public class ItemGenerator : MonoBehaviour
     private GameObject bufferInstantiate;
     [SerializeField]
     private Transform spawnPosition1;
-    [SerializeField]
-    private Transform spawnPosition2;
 
 
     int f = 0;
@@ -94,12 +90,7 @@ public class ItemGenerator : MonoBehaviour
     }
     private IEnumerator Spawner(int i, bool dopSpawn)
     {
-        if (i % 2 == 0)
-            bufferInstantiate = Instantiate(prefabItem, spawnPosition1);
-        else
-            bufferInstantiate = Instantiate(prefabItem, spawnPosition2);
-
-
+        bufferInstantiate = Instantiate(prefabItem, spawnPosition1);
 
         animalItemComponent = bufferInstantiate.GetComponent<AnimalItemComponent>();
         //animalItemComponent.ActivatorTrigger();
