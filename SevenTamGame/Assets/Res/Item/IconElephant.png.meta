@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 459ea60ae29d9504c8f23a2d01012cde
+guid: d03255bec01a3cf478fa096769297892
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5724326528995277368
-    second: IconChicken_0
+      213: -7920079889218894964
+    second: IconElephant_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,17 +109,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IconChicken_0
+      name: IconElephant_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 38
-        width: 496
-        height: 444
+        x: 15
+        y: 25
+        width: 480
+        height: 467
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 83abb1b36a4e07f40800000000000000
-      internalID: 5724326528995277368
+      spriteID: c83846a9d49361290800000000000000
+      internalID: -7920079889218894964
       vertices: []
       indices: 
       edges: []
@@ -148,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      IconChicken_0: 5724326528995277368
+      IconElephant_0: -7920079889218894964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
