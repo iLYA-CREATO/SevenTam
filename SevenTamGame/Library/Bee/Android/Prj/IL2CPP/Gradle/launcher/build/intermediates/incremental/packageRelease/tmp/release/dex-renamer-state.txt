@@ -1,4 +1,4 @@
-#Sat May 17 14:37:12 MSK 2025
+#Sat May 17 23:00:40 MSK 2025
 base.1=E\:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\global_synthetics_dex\\release\\mergeReleaseGlobalSynthetics\\classes.dex
 path.1=classes.dex
 base.0=E\:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex

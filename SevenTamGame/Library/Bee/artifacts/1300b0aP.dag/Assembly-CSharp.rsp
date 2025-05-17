@@ -328,6 +328,8 @@
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.InternalAPIEngineBridge.001.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Mathematics.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Multiplayer.Center.Common.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Recorder.Base.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Recorder.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Rendering.LightTransport.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"

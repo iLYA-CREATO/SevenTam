@@ -9,8 +9,6 @@ public class DragDrop : MonoBehaviour, IPointerDownHandler
     {
         if (eventData.button == PointerEventData.InputButton.Left) // Проверка на левую кнопку мыши
         {
-            Debug.Log($"Меня зовут{gameObject.name}");
-
             OnMoveItemToSlot?.Invoke(gameObject); 
         }
     }

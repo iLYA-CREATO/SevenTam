@@ -14,11 +14,6 @@ public class BarItem : MonoBehaviour
     [SerializeField]
     private List<Slots> slots;
 
-    public int identity = 0;
-    private ItemComponent itemComponentBuffer = null;
-    private List<ItemComponent> itemDestroyed = new List<ItemComponent>();
-    public int nextIndex = 0; // 
-
     /// <summary>
     /// расортировываются предметы 
     /// </summary>
@@ -58,7 +53,6 @@ public class BarItem : MonoBehaviour
                 break;
             }
         }
-        
 
         for (int j = 0; j < typeItemAll.Count; j++)
         {
@@ -85,7 +79,6 @@ public class BarItem : MonoBehaviour
         if (BaseParent.childCount == 0)
             OnWinGame?.Invoke();
 
-        CheckThree();
         CheckFailGame();
     }
 
@@ -111,7 +104,7 @@ public class BarItem : MonoBehaviour
     /// <summary>
     /// Вернём предметы из бара в игру 
     /// </summary>
-    public void RetrnItemToGame()
+    public void ReternItemToGame()
     {
         for (int j = 0; j < slots.Count; j++)
         {
@@ -123,44 +116,16 @@ public class BarItem : MonoBehaviour
             }
         }
 
-        for (int j = 0; j < itemDestroyed.Count; j++)
+        for (int j = 0; j < typeItemAll.Count; j++)
         {
-            itemDestroyed[j].transform.SetParent(BaseParent);
-        }
-
-        itemDestroyed = null;
-    }
-    /// <summary>
-    /// Метод который будет проверять 3 одинаковых предмета в баре
-    /// </summary>
-    private void CheckThree()
-    {
-        itemComponentBuffer = null;
-        identity = 0;
-        itemDestroyed.Clear();
-
-        for (int i = 0; i < slots.Count; i++)
-        {
-            if (identity == 0)
+            if (typeItemAll[j].itemGame.Count > 2)
             {
-                itemComponentBuffer = slots[i].itemComponent;
-                identity = 1;
-                itemDestroyed.Add(itemComponentBuffer);
-            }
-            else
-            {
-                if(slots[i].itemComponent != null)
+                for (int s = 0; s < typeItemAll[j].itemGame.Count; s++)
                 {
-                    if (itemComponentBuffer.typeItem == slots[i].itemComponent.typeItem)
-                    {
-                        identity++;
-                        itemDestroyed.Add(slots[i].itemComponent);
-                    }
-                    else
-                    {
-                        nextIndex = i;
-                    }
+                    typeItemAll[j].itemGame[s].transform.SetParent(BaseParent);
+                    continue;
                 }
+                typeItemAll[j].itemGame.Clear();
             }
         }
     }

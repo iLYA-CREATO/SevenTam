@@ -1272,8 +1272,7 @@
         1262,
         1263,
         1264,
-        1265,
-        1266
+        1265
       ],
       "DebugActionIndex": 0
     },
@@ -1336,7 +1335,7 @@
       "DisplayName": "Writing boot.config_x4e9.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 44391,
+      "PayloadLength": 44602,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "InputFlags": [],
@@ -1441,6 +1440,8 @@
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Multiplayer.Center.Common.dll",
+        "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Recorder.Base.dll",
+        "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Recorder.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Rendering.LightTransport.Runtime.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll",
@@ -2038,6 +2039,8 @@
         0,
         0,
         0,
+        0,
+        0,
         2,
         2,
         2,
@@ -2112,8 +2115,8 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2125653744594068204.rsp",
       "DisplayName": "Writing 2125653744594068204.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 44563,
-      "PayloadLength": 53006,
+      "PayloadOffset": 44774,
+      "PayloadLength": 53255,
       "PayloadDebugContentSnippet": "--allowed-assembly=\"C:/Program",
       "Inputs": [],
       "InputFlags": [],
@@ -2214,6 +2217,8 @@
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Multiplayer.Center.Common.dll",
+        "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Recorder.Base.dll",
+        "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Recorder.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.Rendering.LightTransport.Runtime.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
         "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/PlayerScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll",
@@ -3304,6 +3309,8 @@
         0,
         0,
         0,
+        0,
+        0,
         8
       ],
       "Outputs": [
@@ -3367,7 +3374,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Assembly-CSharp-FeaturesChecked.txt_ki5r.info",
       "DisplayName": "Writing Assembly-CSharp-FeaturesChecked.txt_ki5r.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 97682,
+      "PayloadOffset": 98142,
       "PayloadLength": 2492,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -3490,7 +3497,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Mono.Security-FeaturesChecked.txt_pcel.info",
       "DisplayName": "Writing Mono.Security-FeaturesChecked.txt_pcel.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 100285,
+      "PayloadOffset": 100745,
       "PayloadLength": 2488,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -3613,7 +3620,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/mscorlib-FeaturesChecked.txt_pwj8.info",
       "DisplayName": "Writing mscorlib-FeaturesChecked.txt_pwj8.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 102879,
+      "PayloadOffset": 103339,
       "PayloadLength": 2478,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -3736,7 +3743,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/System.Configuration-FeaturesChecked.txt_vfp9.info",
       "DisplayName": "Writing System.Configuration-FeaturesChecked.txt_vfp9.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 105475,
+      "PayloadOffset": 105935,
       "PayloadLength": 2502,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -3859,7 +3866,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/System.Core-FeaturesChecked.txt_k2yd.info",
       "DisplayName": "Writing System.Core-FeaturesChecked.txt_k2yd.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 108086,
+      "PayloadOffset": 108546,
       "PayloadLength": 2484,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -3982,7 +3989,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/System-FeaturesChecked.txt_v90b.info",
       "DisplayName": "Writing System-FeaturesChecked.txt_v90b.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 110674,
+      "PayloadOffset": 111134,
       "PayloadLength": 2474,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -4105,7 +4112,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/System.Xml-FeaturesChecked.txt_wnnz.info",
       "DisplayName": "Writing System.Xml-FeaturesChecked.txt_wnnz.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 113256,
+      "PayloadOffset": 113716,
       "PayloadLength": 2482,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -4228,7 +4235,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.2D.Animation.Runtime-FeaturesChecked.txt_7pkz.info",
       "DisplayName": "Writing Unity.2D.Animation.Runtime-FeaturesChecked.txt_7pkz.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 115862,
+      "PayloadOffset": 116322,
       "PayloadLength": 2514,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -4351,7 +4358,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.2D.Common.Runtime-FeaturesChecked.txt_y1vr.info",
       "DisplayName": "Writing Unity.2D.Common.Runtime-FeaturesChecked.txt_y1vr.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 118497,
+      "PayloadOffset": 118957,
       "PayloadLength": 2508,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -4474,7 +4481,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.2D.SpriteShape.Runtime-FeaturesChecked.txt_7fyd.info",
       "DisplayName": "Writing Unity.2D.SpriteShape.Runtime-FeaturesChecked.txt_7fyd.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 121131,
+      "PayloadOffset": 121591,
       "PayloadLength": 2518,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -4597,7 +4604,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.Burst-FeaturesChecked.txt_5voi.info",
       "DisplayName": "Writing Unity.Burst-FeaturesChecked.txt_5voi.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 123758,
+      "PayloadOffset": 124218,
       "PayloadLength": 2484,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -4720,7 +4727,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.Burst.Unsafe-FeaturesChecked.txt_9x4w.info",
       "DisplayName": "Writing Unity.Burst.Unsafe-FeaturesChecked.txt_9x4w.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 126358,
+      "PayloadOffset": 126818,
       "PayloadLength": 2498,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -4843,7 +4850,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.Collections-FeaturesChecked.txt_imay.info",
       "DisplayName": "Writing Unity.Collections-FeaturesChecked.txt_imay.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 128971,
+      "PayloadOffset": 129431,
       "PayloadLength": 2496,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -4966,7 +4973,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.InputSystem-FeaturesChecked.txt_ivdb.info",
       "DisplayName": "Writing Unity.InputSystem-FeaturesChecked.txt_ivdb.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 131582,
+      "PayloadOffset": 132042,
       "PayloadLength": 2496,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -5089,7 +5096,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.InputSystem.ForUI-FeaturesChecked.txt_1qsl.info",
       "DisplayName": "Writing Unity.InputSystem.ForUI-FeaturesChecked.txt_1qsl.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 134199,
+      "PayloadOffset": 134659,
       "PayloadLength": 2508,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -5212,7 +5219,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.InternalAPIEngineBridge.001-FeaturesChecked.txt_sxcr.info",
       "DisplayName": "Writing Unity.InternalAPIEngineBridge.001-FeaturesChecked.txt_sxcr.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 136838,
+      "PayloadOffset": 137298,
       "PayloadLength": 2528,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -5335,7 +5342,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.Mathematics-FeaturesChecked.txt_bwkn.info",
       "DisplayName": "Writing Unity.Mathematics-FeaturesChecked.txt_bwkn.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 139481,
+      "PayloadOffset": 139941,
       "PayloadLength": 2496,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -5458,7 +5465,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipeline.Universal.ShaderLibrary-FeaturesChecked.txt_erxn.info",
       "DisplayName": "Writing Unity.RenderPipeline.Universal.ShaderLibrary-FeaturesChecked.txt_erxn.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 142119,
+      "PayloadOffset": 142579,
       "PayloadLength": 2550,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -5581,7 +5588,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.Core.Runtime-FeaturesChecked.txt_9rh7.info",
       "DisplayName": "Writing Unity.RenderPipelines.Core.Runtime-FeaturesChecked.txt_9rh7.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 144801,
+      "PayloadOffset": 145261,
       "PayloadLength": 2530,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -5704,7 +5711,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.Core.Runtime.Shared-FeaturesChecked.txt_024x.info",
       "DisplayName": "Writing Unity.RenderPipelines.Core.Runtime.Shared-FeaturesChecked.txt_024x.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 147470,
+      "PayloadOffset": 147930,
       "PayloadLength": 2544,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -5827,7 +5834,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.GPUDriven.Runtime-FeaturesChecked.txt_gz0s.info",
       "DisplayName": "Writing Unity.RenderPipelines.GPUDriven.Runtime-FeaturesChecked.txt_gz0s.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 150151,
+      "PayloadOffset": 150611,
       "PayloadLength": 2540,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -5950,7 +5957,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.Universal.2D.Runtime-FeaturesChecked.txt_v4vi.info",
       "DisplayName": "Writing Unity.RenderPipelines.Universal.2D.Runtime-FeaturesChecked.txt_v4vi.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 152831,
+      "PayloadOffset": 153291,
       "PayloadLength": 2546,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -6073,7 +6080,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.Universal.Runtime-FeaturesChecked.txt_7fk5.info",
       "DisplayName": "Writing Unity.RenderPipelines.Universal.Runtime-FeaturesChecked.txt_7fk5.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 155514,
+      "PayloadOffset": 155974,
       "PayloadLength": 2540,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -6196,7 +6203,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/Unity.TextMeshPro-FeaturesChecked.txt_c7od.info",
       "DisplayName": "Writing Unity.TextMeshPro-FeaturesChecked.txt_c7od.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 158169,
+      "PayloadOffset": 158629,
       "PayloadLength": 2496,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -6319,7 +6326,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AIModule-FeaturesChecked.txt_jr17.info",
       "DisplayName": "Writing UnityEngine.AIModule-FeaturesChecked.txt_jr17.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 160783,
+      "PayloadOffset": 161243,
       "PayloadLength": 2502,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -6442,7 +6449,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AndroidJNIModule-FeaturesChecked.txt_x3ln.info",
       "DisplayName": "Writing UnityEngine.AndroidJNIModule-FeaturesChecked.txt_x3ln.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 163411,
+      "PayloadOffset": 163871,
       "PayloadLength": 2518,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -6565,7 +6572,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AnimationModule-FeaturesChecked.txt_3sdh.info",
       "DisplayName": "Writing UnityEngine.AnimationModule-FeaturesChecked.txt_3sdh.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 166054,
+      "PayloadOffset": 166514,
       "PayloadLength": 2516,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -6688,7 +6695,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AudioModule-FeaturesChecked.txt_tbfa.info",
       "DisplayName": "Writing UnityEngine.AudioModule-FeaturesChecked.txt_tbfa.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 168691,
+      "PayloadOffset": 169151,
       "PayloadLength": 2508,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -6811,7 +6818,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.CoreModule-FeaturesChecked.txt_uimb.info",
       "DisplayName": "Writing UnityEngine.CoreModule-FeaturesChecked.txt_uimb.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 171319,
+      "PayloadOffset": 171779,
       "PayloadLength": 2506,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -6934,7 +6941,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine-FeaturesChecked.txt_x1ug.info",
       "DisplayName": "Writing UnityEngine-FeaturesChecked.txt_x1ug.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 173934,
+      "PayloadOffset": 174394,
       "PayloadLength": 2484,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -7057,7 +7064,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.GridModule-FeaturesChecked.txt_5p9t.info",
       "DisplayName": "Writing UnityEngine.GridModule-FeaturesChecked.txt_5p9t.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 176538,
+      "PayloadOffset": 176998,
       "PayloadLength": 2506,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -7180,7 +7187,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.HierarchyCoreModule-FeaturesChecked.txt_rzjr.info",
       "DisplayName": "Writing UnityEngine.HierarchyCoreModule-FeaturesChecked.txt_rzjr.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 179173,
+      "PayloadOffset": 179633,
       "PayloadLength": 2524,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -7303,7 +7310,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.IMGUIModule-FeaturesChecked.txt_ufk2.info",
       "DisplayName": "Writing UnityEngine.IMGUIModule-FeaturesChecked.txt_ufk2.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 181818,
+      "PayloadOffset": 182278,
       "PayloadLength": 2508,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -7426,7 +7433,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.InputForUIModule-FeaturesChecked.txt_awp5.info",
       "DisplayName": "Writing UnityEngine.InputForUIModule-FeaturesChecked.txt_awp5.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 184452,
+      "PayloadOffset": 184912,
       "PayloadLength": 2518,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -7549,7 +7556,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.InputLegacyModule-FeaturesChecked.txt_y5my.info",
       "DisplayName": "Writing UnityEngine.InputLegacyModule-FeaturesChecked.txt_y5my.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 187097,
+      "PayloadOffset": 187557,
       "PayloadLength": 2520,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -7672,7 +7679,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.InputModule-FeaturesChecked.txt_xblj.info",
       "DisplayName": "Writing UnityEngine.InputModule-FeaturesChecked.txt_xblj.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 189738,
+      "PayloadOffset": 190198,
       "PayloadLength": 2508,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -7795,7 +7802,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.JSONSerializeModule-FeaturesChecked.txt_vjsc.info",
       "DisplayName": "Writing UnityEngine.JSONSerializeModule-FeaturesChecked.txt_vjsc.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 192375,
+      "PayloadOffset": 192835,
       "PayloadLength": 2524,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -7918,7 +7925,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.Physics2DModule-FeaturesChecked.txt_45hf.info",
       "DisplayName": "Writing UnityEngine.Physics2DModule-FeaturesChecked.txt_45hf.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 195024,
+      "PayloadOffset": 195484,
       "PayloadLength": 2516,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -8041,7 +8048,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PhysicsModule-FeaturesChecked.txt_2l1t.info",
       "DisplayName": "Writing UnityEngine.PhysicsModule-FeaturesChecked.txt_2l1t.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 197663,
+      "PayloadOffset": 198123,
       "PayloadLength": 2512,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -8164,7 +8171,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PropertiesModule-FeaturesChecked.txt_m9z5.info",
       "DisplayName": "Writing UnityEngine.PropertiesModule-FeaturesChecked.txt_m9z5.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 200301,
+      "PayloadOffset": 200761,
       "PayloadLength": 2518,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -8287,7 +8294,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SharedInternalsModule-FeaturesChecked.txt_sm9d.info",
       "DisplayName": "Writing UnityEngine.SharedInternalsModule-FeaturesChecked.txt_sm9d.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 202950,
+      "PayloadOffset": 203410,
       "PayloadLength": 2528,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -8410,7 +8417,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SpriteMaskModule-FeaturesChecked.txt_g2rc.info",
       "DisplayName": "Writing UnityEngine.SpriteMaskModule-FeaturesChecked.txt_g2rc.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 205604,
+      "PayloadOffset": 206064,
       "PayloadLength": 2518,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -8533,7 +8540,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SpriteShapeModule-FeaturesChecked.txt_zrrh.info",
       "DisplayName": "Writing UnityEngine.SpriteShapeModule-FeaturesChecked.txt_zrrh.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 208249,
+      "PayloadOffset": 208709,
       "PayloadLength": 2520,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -8656,7 +8663,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SubsystemsModule-FeaturesChecked.txt_vzqa.info",
       "DisplayName": "Writing UnityEngine.SubsystemsModule-FeaturesChecked.txt_vzqa.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 210895,
+      "PayloadOffset": 211355,
       "PayloadLength": 2518,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -8779,7 +8786,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TerrainModule-FeaturesChecked.txt_wybo.info",
       "DisplayName": "Writing UnityEngine.TerrainModule-FeaturesChecked.txt_wybo.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 213536,
+      "PayloadOffset": 213996,
       "PayloadLength": 2512,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -8902,7 +8909,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TextCoreFontEngineModule-FeaturesChecked.txt_4rfo.info",
       "DisplayName": "Writing UnityEngine.TextCoreFontEngineModule-FeaturesChecked.txt_4rfo.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 216182,
+      "PayloadOffset": 216642,
       "PayloadLength": 2534,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -9025,7 +9032,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TextCoreTextEngineModule-FeaturesChecked.txt_el85.info",
       "DisplayName": "Writing UnityEngine.TextCoreTextEngineModule-FeaturesChecked.txt_el85.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 218850,
+      "PayloadOffset": 219310,
       "PayloadLength": 2534,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -9148,7 +9155,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TextRenderingModule-FeaturesChecked.txt_ighi.info",
       "DisplayName": "Writing UnityEngine.TextRenderingModule-FeaturesChecked.txt_ighi.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 221513,
+      "PayloadOffset": 221973,
       "PayloadLength": 2524,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -9271,7 +9278,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TilemapModule-FeaturesChecked.txt_xct4.info",
       "DisplayName": "Writing UnityEngine.TilemapModule-FeaturesChecked.txt_xct4.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 224160,
+      "PayloadOffset": 224620,
       "PayloadLength": 2512,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -9394,7 +9401,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UI-FeaturesChecked.txt_v0bu.info",
       "DisplayName": "Writing UnityEngine.UI-FeaturesChecked.txt_v0bu.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 226784,
+      "PayloadOffset": 227244,
       "PayloadLength": 2490,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -9517,7 +9524,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UIElementsModule-FeaturesChecked.txt_aabo.info",
       "DisplayName": "Writing UnityEngine.UIElementsModule-FeaturesChecked.txt_aabo.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 229400,
+      "PayloadOffset": 229860,
       "PayloadLength": 2518,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -9640,7 +9647,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UIModule-FeaturesChecked.txt_zatd.info",
       "DisplayName": "Writing UnityEngine.UIModule-FeaturesChecked.txt_zatd.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 232036,
+      "PayloadOffset": 232496,
       "PayloadLength": 2502,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -9763,7 +9770,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UnityAnalyticsCommonModule-FeaturesChecked.txt_z4m3.info",
       "DisplayName": "Writing UnityEngine.UnityAnalyticsCommonModule-FeaturesChecked.txt_z4m3.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 234674,
+      "PayloadOffset": 235134,
       "PayloadLength": 2538,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -9886,7 +9893,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.VFXModule-FeaturesChecked.txt_r8mm.info",
       "DisplayName": "Writing UnityEngine.VFXModule-FeaturesChecked.txt_r8mm.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 237331,
+      "PayloadOffset": 237791,
       "PayloadLength": 2504,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -10009,7 +10016,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.VRModule-FeaturesChecked.txt_nz9x.info",
       "DisplayName": "Writing UnityEngine.VRModule-FeaturesChecked.txt_nz9x.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 239953,
+      "PayloadOffset": 240413,
       "PayloadLength": 2502,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -10132,7 +10139,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityEngine.XRModule-FeaturesChecked.txt_xks3.info",
       "DisplayName": "Writing UnityEngine.XRModule-FeaturesChecked.txt_xks3.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 242573,
+      "PayloadOffset": 243033,
       "PayloadLength": 2502,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Fe",
       "Inputs": [],
@@ -10255,7 +10262,7 @@
       "Annotation": "GenerateNativePluginsForAssemblies Library/Bee/artifacts/Android/AsyncPluginsFromLinker",
       "DisplayName": "Running Burst Compiler",
       "ActionType": "RunRPCCommand",
-      "PayloadOffset": 245184,
+      "PayloadOffset": 245644,
       "PayloadLength": 4599,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Da",
       "Action": "GenerateNativePluginsForAssemblies",
@@ -11173,7 +11180,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/Android/dqdht/_dummy_for_header_discovery",
       "DisplayName": "Writing _dummy_for_header_discovery",
       "ActionType": "WriteFile",
-      "PayloadOffset": 249878,
+      "PayloadOffset": 250338,
       "PayloadLength": 28,
       "PayloadDebugContentSnippet": "//dummy for header discovery",
       "Inputs": [],
@@ -11249,7 +11256,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/Android/zz99l/_dummy_for_header_discovery",
       "DisplayName": "Writing _dummy_for_header_discovery",
       "ActionType": "WriteFile",
-      "PayloadOffset": 250001,
+      "PayloadOffset": 250461,
       "PayloadLength": 28,
       "PayloadDebugContentSnippet": "//dummy for header discovery",
       "Inputs": [],
@@ -11662,7 +11669,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/jhfoz3423lfy0.lump.cpp",
       "DisplayName": "Writing jhfoz3423lfy0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 250118,
+      "PayloadOffset": 250578,
       "PayloadLength": 720,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11687,7 +11694,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/cfubcsh7fv6v0.lump.cpp",
       "DisplayName": "Writing cfubcsh7fv6v0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 250927,
+      "PayloadOffset": 251387,
       "PayloadLength": 711,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11712,7 +11719,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/i16nyvv4e6a30.lump.cpp",
       "DisplayName": "Writing i16nyvv4e6a30.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 251727,
+      "PayloadOffset": 252187,
       "PayloadLength": 713,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11736,7 +11743,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/w88d1q6cicw70.lump.cpp",
       "DisplayName": "Writing w88d1q6cicw70.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 252529,
+      "PayloadOffset": 252989,
       "PayloadLength": 479,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11758,7 +11765,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/l8x96q3iy6240.lump.cpp",
       "DisplayName": "Writing l8x96q3iy6240.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 253097,
+      "PayloadOffset": 253557,
       "PayloadLength": 770,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11782,7 +11789,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/y14g9wyd198s0.lump.cpp",
       "DisplayName": "Writing y14g9wyd198s0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 253956,
+      "PayloadOffset": 254416,
       "PayloadLength": 579,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11805,7 +11812,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/b4otdjpc8j650.lump.cpp",
       "DisplayName": "Writing b4otdjpc8j650.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 254624,
+      "PayloadOffset": 255084,
       "PayloadLength": 766,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11829,7 +11836,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/b4otdjpc8j651.lump.cpp",
       "DisplayName": "Writing b4otdjpc8j651.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 255479,
+      "PayloadOffset": 255939,
       "PayloadLength": 1183,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11856,7 +11863,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/b4otdjpc8j652.lump.cpp",
       "DisplayName": "Writing b4otdjpc8j652.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 256751,
+      "PayloadOffset": 257211,
       "PayloadLength": 777,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11880,7 +11887,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/ps5uo3xos4ao0.lump.cpp",
       "DisplayName": "Writing ps5uo3xos4ao0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 257617,
+      "PayloadOffset": 258077,
       "PayloadLength": 520,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11902,7 +11909,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/7tbkuxxwx0nf0.lump.cpp",
       "DisplayName": "Writing 7tbkuxxwx0nf0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 258226,
+      "PayloadOffset": 258686,
       "PayloadLength": 382,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11923,7 +11930,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/46fgehay67dl0.lump.cpp",
       "DisplayName": "Writing 46fgehay67dl0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 258697,
+      "PayloadOffset": 259157,
       "PayloadLength": 530,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11945,7 +11952,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/t08ok93kodye0.lump.cpp",
       "DisplayName": "Writing t08ok93kodye0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 259316,
+      "PayloadOffset": 259776,
       "PayloadLength": 337,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11966,7 +11973,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/8ouzi3sc7mur0.lump.cpp",
       "DisplayName": "Writing 8ouzi3sc7mur0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 259742,
+      "PayloadOffset": 260202,
       "PayloadLength": 1165,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -11993,7 +12000,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/ulmt0s3ob8fq0.lump.cpp",
       "DisplayName": "Writing ulmt0s3ob8fq0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 260996,
+      "PayloadOffset": 261456,
       "PayloadLength": 448,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12015,7 +12022,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/ulmt0s3ob8fq1.lump.cpp",
       "DisplayName": "Writing ulmt0s3ob8fq1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 261533,
+      "PayloadOffset": 261993,
       "PayloadLength": 958,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12041,7 +12048,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/ulmt0s3ob8fq2.lump.cpp",
       "DisplayName": "Writing ulmt0s3ob8fq2.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 262580,
+      "PayloadOffset": 263040,
       "PayloadLength": 696,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12065,7 +12072,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/ulmt0s3ob8fq3.lump.cpp",
       "DisplayName": "Writing ulmt0s3ob8fq3.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 263365,
+      "PayloadOffset": 263825,
       "PayloadLength": 1309,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12094,7 +12101,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/i5j4tya1iw7m0.lump.cpp",
       "DisplayName": "Writing i5j4tya1iw7m0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 264763,
+      "PayloadOffset": 265223,
       "PayloadLength": 621,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12117,7 +12124,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/pgbmuj8q4nbe0.lump.cpp",
       "DisplayName": "Writing pgbmuj8q4nbe0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 265473,
+      "PayloadOffset": 265933,
       "PayloadLength": 389,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12138,7 +12145,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/1ds1syvuhad60.lump.cpp",
       "DisplayName": "Writing 1ds1syvuhad60.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 265951,
+      "PayloadOffset": 266411,
       "PayloadLength": 341,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12159,7 +12166,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/rgehdpyypz6x0.lump.cpp",
       "DisplayName": "Writing rgehdpyypz6x0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 266381,
+      "PayloadOffset": 266841,
       "PayloadLength": 1030,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12186,7 +12193,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/rgehdpyypz6x1.lump.cpp",
       "DisplayName": "Writing rgehdpyypz6x1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 267500,
+      "PayloadOffset": 267960,
       "PayloadLength": 668,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12210,7 +12217,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/rgehdpyypz6x2.lump.cpp",
       "DisplayName": "Writing rgehdpyypz6x2.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 268257,
+      "PayloadOffset": 268717,
       "PayloadLength": 681,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12234,7 +12241,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/agjgtod9f2u30.lump.cpp",
       "DisplayName": "Writing agjgtod9f2u30.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 269027,
+      "PayloadOffset": 269487,
       "PayloadLength": 705,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12258,7 +12265,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/kv0oupp89x900.lump.cpp",
       "DisplayName": "Writing kv0oupp89x900.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 269821,
+      "PayloadOffset": 270281,
       "PayloadLength": 524,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12281,7 +12288,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/5as6ancvqohd0.lump.cpp",
       "DisplayName": "Writing 5as6ancvqohd0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 270434,
+      "PayloadOffset": 270894,
       "PayloadLength": 495,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12304,7 +12311,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/5as6ancvqohd1.lump.cpp",
       "DisplayName": "Writing 5as6ancvqohd1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 271018,
+      "PayloadOffset": 271478,
       "PayloadLength": 719,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12329,7 +12336,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/tj8k01myvcy00.lump.cpp",
       "DisplayName": "Writing tj8k01myvcy00.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 271826,
+      "PayloadOffset": 272286,
       "PayloadLength": 1035,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12356,7 +12363,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/8l33boklzbtm0.lump.cpp",
       "DisplayName": "Writing 8l33boklzbtm0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 272950,
+      "PayloadOffset": 273410,
       "PayloadLength": 914,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12383,7 +12390,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/8l33boklzbtm1.lump.cpp",
       "DisplayName": "Writing 8l33boklzbtm1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 273953,
+      "PayloadOffset": 274413,
       "PayloadLength": 798,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12409,7 +12416,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/wqbng6nss9oo0.lump.cpp",
       "DisplayName": "Writing wqbng6nss9oo0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 274840,
+      "PayloadOffset": 275300,
       "PayloadLength": 417,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12431,7 +12438,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/wqbng6nss9oo1.lump.cpp",
       "DisplayName": "Writing wqbng6nss9oo1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 275346,
+      "PayloadOffset": 275806,
       "PayloadLength": 1088,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12459,7 +12466,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/wqbng6nss9oo2.lump.cpp",
       "DisplayName": "Writing wqbng6nss9oo2.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 276523,
+      "PayloadOffset": 276983,
       "PayloadLength": 861,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12485,7 +12492,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/dq4haf3496de0.lump.cpp",
       "DisplayName": "Writing dq4haf3496de0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 277473,
+      "PayloadOffset": 277933,
       "PayloadLength": 502,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12508,7 +12515,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/8u7s5fk8bv1c0.lump.cpp",
       "DisplayName": "Writing 8u7s5fk8bv1c0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 278064,
+      "PayloadOffset": 278524,
       "PayloadLength": 727,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12533,7 +12540,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/8u7s5fk8bv1c1.lump.cpp",
       "DisplayName": "Writing 8u7s5fk8bv1c1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 278880,
+      "PayloadOffset": 279340,
       "PayloadLength": 750,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12558,7 +12565,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/8u7s5fk8bv1c2.lump.cpp",
       "DisplayName": "Writing 8u7s5fk8bv1c2.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 279719,
+      "PayloadOffset": 280179,
       "PayloadLength": 737,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12583,7 +12590,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/8u7s5fk8bv1c3.lump.cpp",
       "DisplayName": "Writing 8u7s5fk8bv1c3.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 280545,
+      "PayloadOffset": 281005,
       "PayloadLength": 1277,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12613,7 +12620,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/0qu0ubfbtexe0.lump.cpp",
       "DisplayName": "Writing 0qu0ubfbtexe0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 281911,
+      "PayloadOffset": 282371,
       "PayloadLength": 628,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12637,7 +12644,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/0qu0ubfbtexe1.lump.cpp",
       "DisplayName": "Writing 0qu0ubfbtexe1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 282628,
+      "PayloadOffset": 283088,
       "PayloadLength": 605,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12661,7 +12668,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/0qu0ubfbtexe2.lump.cpp",
       "DisplayName": "Writing 0qu0ubfbtexe2.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 283322,
+      "PayloadOffset": 283782,
       "PayloadLength": 1520,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12693,7 +12700,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/0qu0ubfbtexe3.lump.cpp",
       "DisplayName": "Writing 0qu0ubfbtexe3.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 284931,
+      "PayloadOffset": 285391,
       "PayloadLength": 738,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12718,7 +12725,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/0qu0ubfbtexe4.lump.cpp",
       "DisplayName": "Writing 0qu0ubfbtexe4.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 285758,
+      "PayloadOffset": 286218,
       "PayloadLength": 859,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12744,7 +12751,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/jrswsxi3lunb0.lump.cpp",
       "DisplayName": "Writing jrswsxi3lunb0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 286706,
+      "PayloadOffset": 287166,
       "PayloadLength": 979,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12771,7 +12778,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/547c7nzgyvnr0.lump.cpp",
       "DisplayName": "Writing 547c7nzgyvnr0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 287774,
+      "PayloadOffset": 288234,
       "PayloadLength": 491,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12794,7 +12801,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/547c7nzgyvnr1.lump.cpp",
       "DisplayName": "Writing 547c7nzgyvnr1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 288354,
+      "PayloadOffset": 288814,
       "PayloadLength": 825,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12820,7 +12827,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/547c7nzgyvnr2.lump.cpp",
       "DisplayName": "Writing 547c7nzgyvnr2.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 289268,
+      "PayloadOffset": 289728,
       "PayloadLength": 744,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12845,7 +12852,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/bnmm6bsa5y9a0.lump.cpp",
       "DisplayName": "Writing bnmm6bsa5y9a0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 290101,
+      "PayloadOffset": 290561,
       "PayloadLength": 857,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12871,7 +12878,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/aujqa6oyifua0.lump.cpp",
       "DisplayName": "Writing aujqa6oyifua0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 291047,
+      "PayloadOffset": 291507,
       "PayloadLength": 327,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12892,7 +12899,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/3fzx86ndsrjj0.lump.cpp",
       "DisplayName": "Writing 3fzx86ndsrjj0.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 291463,
+      "PayloadOffset": 291923,
       "PayloadLength": 807,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12918,7 +12925,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/3fzx86ndsrjj1.lump.cpp",
       "DisplayName": "Writing 3fzx86ndsrjj1.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 292359,
+      "PayloadOffset": 292819,
       "PayloadLength": 908,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12945,7 +12952,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/3fzx86ndsrjj2.lump.cpp",
       "DisplayName": "Writing 3fzx86ndsrjj2.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 293356,
+      "PayloadOffset": 293816,
       "PayloadLength": 1000,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -12973,7 +12980,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/3fzx86ndsrjj3.lump.cpp",
       "DisplayName": "Writing 3fzx86ndsrjj3.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 294445,
+      "PayloadOffset": 294905,
       "PayloadLength": 1333,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -13004,7 +13011,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/3fzx86ndsrjj4.lump.cpp",
       "DisplayName": "Writing 3fzx86ndsrjj4.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 295867,
+      "PayloadOffset": 296327,
       "PayloadLength": 903,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -13031,7 +13038,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/3fzx86ndsrjj5.lump.cpp",
       "DisplayName": "Writing 3fzx86ndsrjj5.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 296859,
+      "PayloadOffset": 297319,
       "PayloadLength": 710,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -13056,7 +13063,7 @@
       "Annotation": "MakeLump Library/Bee/artifacts/Android/87lik/3fzx86ndsrjj6.lump.cpp",
       "DisplayName": "Writing 3fzx86ndsrjj6.lump.cpp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 297658,
+      "PayloadOffset": 298118,
       "PayloadLength": 378,
       "PayloadDebugContentSnippet": "//Generated lump file. generat",
       "Inputs": [],
@@ -13078,7 +13085,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/Android/87lik/_dummy_for_header_discovery",
       "DisplayName": "Writing _dummy_for_header_discovery",
       "ActionType": "WriteFile",
-      "PayloadOffset": 298131,
+      "PayloadOffset": 298591,
       "PayloadLength": 28,
       "PayloadDebugContentSnippet": "//dummy for header discovery",
       "Inputs": [],
@@ -16734,7 +16741,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/Android/d8kzr/_dummy_for_header_discovery",
       "DisplayName": "Writing _dummy_for_header_discovery",
       "ActionType": "WriteFile",
-      "PayloadOffset": 298254,
+      "PayloadOffset": 298714,
       "PayloadLength": 28,
       "PayloadDebugContentSnippet": "//dummy for header discovery",
       "Inputs": [],
@@ -28544,7 +28551,7 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/12438370367218343051.rsp",
       "DisplayName": "Writing 12438370367218343051.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 298372,
+      "PayloadOffset": 298832,
       "PayloadLength": 22123,
       "PayloadDebugContentSnippet": "-march=armv8-a -D__ANDROID_UNA",
       "Inputs": [],
@@ -38398,27 +38405,6 @@
       "DebugActionIndex": 1119
     },
     {
-      "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt",
-      "DisplayName": "Copying icallsummary.txt",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/Bee/artifacts/Android/ManagedStripped/icallsummary.txt"
-      ],
-      "InputFlags": [
-        0
-      ],
-      "Outputs": [
-        "E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt"
-      ],
-      "OutputFlags": [
-        2
-      ],
-      "ToBuildDependencies": [
-        8
-      ],
-      "DebugActionIndex": 1120
-    },
-    {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Mono.Security.dll",
       "DisplayName": "Copying Mono.Security.dll",
       "ActionType": "CopyFiles",
@@ -38437,7 +38423,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1121
+      "DebugActionIndex": 1120
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/mscorlib.dll",
@@ -38458,7 +38444,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1122
+      "DebugActionIndex": 1121
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Configuration.dll",
@@ -38479,7 +38465,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1123
+      "DebugActionIndex": 1122
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Core.dll",
@@ -38500,7 +38486,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1124
+      "DebugActionIndex": 1123
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.dll",
@@ -38521,7 +38507,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1125
+      "DebugActionIndex": 1124
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Xml.dll",
@@ -38542,7 +38528,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1126
+      "DebugActionIndex": 1125
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.2D.Animation.Runtime.dll",
@@ -38563,7 +38549,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1127
+      "DebugActionIndex": 1126
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.2D.Animation.Runtime.pdb",
@@ -38584,7 +38570,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1128
+      "DebugActionIndex": 1127
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.2D.Common.Runtime.dll",
@@ -38605,7 +38591,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1129
+      "DebugActionIndex": 1128
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.2D.Common.Runtime.pdb",
@@ -38626,7 +38612,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1130
+      "DebugActionIndex": 1129
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.2D.SpriteShape.Runtime.dll",
@@ -38647,7 +38633,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1131
+      "DebugActionIndex": 1130
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.2D.SpriteShape.Runtime.pdb",
@@ -38668,7 +38654,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1132
+      "DebugActionIndex": 1131
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Burst.dll",
@@ -38689,7 +38675,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1133
+      "DebugActionIndex": 1132
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Burst.pdb",
@@ -38710,7 +38696,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1134
+      "DebugActionIndex": 1133
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Burst.Unsafe.dll",
@@ -38731,7 +38717,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1135
+      "DebugActionIndex": 1134
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Collections.dll",
@@ -38752,7 +38738,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1136
+      "DebugActionIndex": 1135
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Collections.pdb",
@@ -38773,7 +38759,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1137
+      "DebugActionIndex": 1136
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InputSystem.dll",
@@ -38794,7 +38780,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1138
+      "DebugActionIndex": 1137
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InputSystem.ForUI.dll",
@@ -38815,7 +38801,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1139
+      "DebugActionIndex": 1138
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InputSystem.ForUI.pdb",
@@ -38836,7 +38822,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1140
+      "DebugActionIndex": 1139
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InputSystem.pdb",
@@ -38857,7 +38843,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1141
+      "DebugActionIndex": 1140
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InternalAPIEngineBridge.001.dll",
@@ -38878,7 +38864,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1142
+      "DebugActionIndex": 1141
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InternalAPIEngineBridge.001.pdb",
@@ -38899,7 +38885,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1143
+      "DebugActionIndex": 1142
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Mathematics.dll",
@@ -38920,7 +38906,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1144
+      "DebugActionIndex": 1143
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Mathematics.pdb",
@@ -38941,7 +38927,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1145
+      "DebugActionIndex": 1144
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
@@ -38962,7 +38948,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1146
+      "DebugActionIndex": 1145
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.pdb",
@@ -38983,7 +38969,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1147
+      "DebugActionIndex": 1146
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Core.Runtime.dll",
@@ -39004,7 +38990,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1148
+      "DebugActionIndex": 1147
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Core.Runtime.pdb",
@@ -39025,7 +39011,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1149
+      "DebugActionIndex": 1148
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
@@ -39046,7 +39032,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1150
+      "DebugActionIndex": 1149
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Core.Runtime.Shared.pdb",
@@ -39067,7 +39053,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1151
+      "DebugActionIndex": 1150
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
@@ -39088,7 +39074,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1152
+      "DebugActionIndex": 1151
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.GPUDriven.Runtime.pdb",
@@ -39109,7 +39095,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1153
+      "DebugActionIndex": 1152
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
@@ -39130,7 +39116,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1154
+      "DebugActionIndex": 1153
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Universal.2D.Runtime.pdb",
@@ -39151,7 +39137,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1155
+      "DebugActionIndex": 1154
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
@@ -39172,7 +39158,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1156
+      "DebugActionIndex": 1155
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Universal.Runtime.pdb",
@@ -39193,7 +39179,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1157
+      "DebugActionIndex": 1156
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.TextMeshPro.dll",
@@ -39214,7 +39200,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1158
+      "DebugActionIndex": 1157
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.TextMeshPro.pdb",
@@ -39235,7 +39221,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1159
+      "DebugActionIndex": 1158
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AIModule.dll",
@@ -39256,7 +39242,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1160
+      "DebugActionIndex": 1159
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AIModule.pdb",
@@ -39277,7 +39263,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1161
+      "DebugActionIndex": 1160
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AndroidJNIModule.dll",
@@ -39298,7 +39284,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1162
+      "DebugActionIndex": 1161
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AndroidJNIModule.pdb",
@@ -39319,7 +39305,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1163
+      "DebugActionIndex": 1162
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AnimationModule.dll",
@@ -39340,7 +39326,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1164
+      "DebugActionIndex": 1163
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AnimationModule.pdb",
@@ -39361,7 +39347,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1165
+      "DebugActionIndex": 1164
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AudioModule.dll",
@@ -39382,7 +39368,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1166
+      "DebugActionIndex": 1165
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AudioModule.pdb",
@@ -39403,7 +39389,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1167
+      "DebugActionIndex": 1166
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.CoreModule.dll",
@@ -39424,7 +39410,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1168
+      "DebugActionIndex": 1167
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.CoreModule.pdb",
@@ -39445,7 +39431,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1169
+      "DebugActionIndex": 1168
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.dll",
@@ -39466,7 +39452,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1170
+      "DebugActionIndex": 1169
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.GridModule.dll",
@@ -39487,7 +39473,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1171
+      "DebugActionIndex": 1170
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.GridModule.pdb",
@@ -39508,7 +39494,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1172
+      "DebugActionIndex": 1171
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.HierarchyCoreModule.dll",
@@ -39529,7 +39515,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1173
+      "DebugActionIndex": 1172
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.HierarchyCoreModule.pdb",
@@ -39550,7 +39536,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1174
+      "DebugActionIndex": 1173
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.IMGUIModule.dll",
@@ -39571,7 +39557,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1175
+      "DebugActionIndex": 1174
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.IMGUIModule.pdb",
@@ -39592,7 +39578,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1176
+      "DebugActionIndex": 1175
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputForUIModule.dll",
@@ -39613,7 +39599,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1177
+      "DebugActionIndex": 1176
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputForUIModule.pdb",
@@ -39634,7 +39620,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1178
+      "DebugActionIndex": 1177
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputLegacyModule.dll",
@@ -39655,7 +39641,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1179
+      "DebugActionIndex": 1178
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputLegacyModule.pdb",
@@ -39676,7 +39662,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1180
+      "DebugActionIndex": 1179
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.dll",
@@ -39697,7 +39683,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1181
+      "DebugActionIndex": 1180
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.pdb",
@@ -39718,7 +39704,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1182
+      "DebugActionIndex": 1181
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.JSONSerializeModule.dll",
@@ -39739,7 +39725,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1183
+      "DebugActionIndex": 1182
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.JSONSerializeModule.pdb",
@@ -39760,7 +39746,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1184
+      "DebugActionIndex": 1183
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.pdb",
@@ -39781,7 +39767,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1185
+      "DebugActionIndex": 1184
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.Physics2DModule.dll",
@@ -39802,7 +39788,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1186
+      "DebugActionIndex": 1185
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.Physics2DModule.pdb",
@@ -39823,7 +39809,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1187
+      "DebugActionIndex": 1186
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PhysicsModule.dll",
@@ -39844,7 +39830,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1188
+      "DebugActionIndex": 1187
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PhysicsModule.pdb",
@@ -39865,7 +39851,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1189
+      "DebugActionIndex": 1188
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PropertiesModule.dll",
@@ -39886,7 +39872,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1190
+      "DebugActionIndex": 1189
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PropertiesModule.pdb",
@@ -39907,7 +39893,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1191
+      "DebugActionIndex": 1190
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SharedInternalsModule.dll",
@@ -39928,7 +39914,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1192
+      "DebugActionIndex": 1191
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SharedInternalsModule.pdb",
@@ -39949,7 +39935,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1193
+      "DebugActionIndex": 1192
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpriteMaskModule.dll",
@@ -39970,7 +39956,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1194
+      "DebugActionIndex": 1193
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpriteMaskModule.pdb",
@@ -39991,7 +39977,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1195
+      "DebugActionIndex": 1194
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpriteShapeModule.dll",
@@ -40012,7 +39998,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1196
+      "DebugActionIndex": 1195
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpriteShapeModule.pdb",
@@ -40033,7 +40019,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1197
+      "DebugActionIndex": 1196
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SubsystemsModule.dll",
@@ -40054,7 +40040,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1198
+      "DebugActionIndex": 1197
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SubsystemsModule.pdb",
@@ -40075,7 +40061,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1199
+      "DebugActionIndex": 1198
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TerrainModule.dll",
@@ -40096,7 +40082,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1200
+      "DebugActionIndex": 1199
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TerrainModule.pdb",
@@ -40117,7 +40103,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1201
+      "DebugActionIndex": 1200
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreFontEngineModule.dll",
@@ -40138,7 +40124,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1202
+      "DebugActionIndex": 1201
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
@@ -40159,7 +40145,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1203
+      "DebugActionIndex": 1202
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreTextEngineModule.dll",
@@ -40180,7 +40166,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1204
+      "DebugActionIndex": 1203
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
@@ -40201,7 +40187,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1205
+      "DebugActionIndex": 1204
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextRenderingModule.dll",
@@ -40222,7 +40208,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1206
+      "DebugActionIndex": 1205
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextRenderingModule.pdb",
@@ -40243,7 +40229,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1207
+      "DebugActionIndex": 1206
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TilemapModule.dll",
@@ -40264,7 +40250,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1208
+      "DebugActionIndex": 1207
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TilemapModule.pdb",
@@ -40285,7 +40271,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1209
+      "DebugActionIndex": 1208
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UI.dll",
@@ -40306,7 +40292,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1210
+      "DebugActionIndex": 1209
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UI.pdb",
@@ -40327,7 +40313,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1211
+      "DebugActionIndex": 1210
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIElementsModule.dll",
@@ -40348,7 +40334,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1212
+      "DebugActionIndex": 1211
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIElementsModule.pdb",
@@ -40369,7 +40355,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1213
+      "DebugActionIndex": 1212
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIModule.dll",
@@ -40390,7 +40376,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1214
+      "DebugActionIndex": 1213
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIModule.pdb",
@@ -40411,7 +40397,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1215
+      "DebugActionIndex": 1214
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
@@ -40432,7 +40418,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1216
+      "DebugActionIndex": 1215
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb",
@@ -40453,7 +40439,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1217
+      "DebugActionIndex": 1216
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VFXModule.dll",
@@ -40474,7 +40460,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1218
+      "DebugActionIndex": 1217
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VFXModule.pdb",
@@ -40495,7 +40481,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1219
+      "DebugActionIndex": 1218
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VRModule.dll",
@@ -40516,7 +40502,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1220
+      "DebugActionIndex": 1219
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VRModule.pdb",
@@ -40537,7 +40523,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1221
+      "DebugActionIndex": 1220
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.XRModule.dll",
@@ -40558,7 +40544,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1222
+      "DebugActionIndex": 1221
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.XRModule.pdb",
@@ -40579,7 +40565,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1223
+      "DebugActionIndex": 1222
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityLinkerToEditorData.json",
@@ -40600,7 +40586,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 1224
+      "DebugActionIndex": 1223
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/Resources/unity default resources",
@@ -40618,13 +40604,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1225
+      "DebugActionIndex": 1224
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/IntermediateFiles.txt_ri9j.info",
       "DisplayName": "Writing IntermediateFiles.txt_ri9j.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 320594,
+      "PayloadOffset": 321054,
       "PayloadLength": 14019,
       "PayloadDebugContentSnippet": "{\"AndroidPlayerBuildProgram.Ac",
       "Inputs": [],
@@ -40635,7 +40621,7 @@
       "OutputFlags": [
         2
       ],
-      "DebugActionIndex": 1226
+      "DebugActionIndex": 1225
     },
     {
       "Annotation": "ActionGenerateProjectFiles Library/Bee/artifacts/Android/IntermediateFiles.txt (+46 others)",
@@ -40830,11 +40816,11 @@
         0
       ],
       "ToBuildDependencies": [
-        1226
+        1225
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1227
+      "DebugActionIndex": 1226
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerGameActivity.java",
@@ -40852,7 +40838,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1228
+      "DebugActionIndex": 1227
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar",
@@ -40870,7 +40856,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1229
+      "DebugActionIndex": 1228
     },
     {
       "Annotation": "SourceBuildPlayerFiles",
@@ -40880,17 +40866,17 @@
       "Outputs": [],
       "OutputFlags": [],
       "ToBuildDependencies": [
-        1229,
-        1248,
-        1258
+        1228,
+        1247,
+        1257
       ],
-      "DebugActionIndex": 1230
+      "DebugActionIndex": 1229
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/IntermediateLauncherManifestDiag.txt_4oyd.info",
       "DisplayName": "Writing IntermediateLauncherManifestDiag.txt_4oyd.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 334727,
+      "PayloadOffset": 335187,
       "PayloadLength": 13210,
       "PayloadDebugContentSnippet": "{\"AndroidPlayerBuildProgram.Ac",
       "Inputs": [],
@@ -40901,7 +40887,7 @@
       "OutputFlags": [
         2
       ],
-      "DebugActionIndex": 1231
+      "DebugActionIndex": 1230
     },
     {
       "Annotation": "Generate Manifests Library/Bee/artifacts/Android/Manifest/IntermediateLauncherManifestDiag.txt (+3 others)",
@@ -41116,11 +41102,11 @@
         116,
         118,
         120,
-        1231
+        1230
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1232
+      "DebugActionIndex": 1231
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/ids.xml",
@@ -41138,13 +41124,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1233
+      "DebugActionIndex": 1232
     },
     {
       "Annotation": "WriteText E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml",
       "DisplayName": "Writing styles.xml",
       "ActionType": "WriteFile",
-      "PayloadOffset": 348101,
+      "PayloadOffset": 348561,
       "PayloadLength": 171,
       "PayloadDebugContentSnippet": "<?xml version=\"1.0\" encoding=\"",
       "Inputs": [],
@@ -41155,13 +41141,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1234
+      "DebugActionIndex": 1233
     },
     {
       "Annotation": "WriteText E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v28/styles.xml",
       "DisplayName": "Writing styles.xml",
       "ActionType": "WriteFile",
-      "PayloadOffset": 348436,
+      "PayloadOffset": 348896,
       "PayloadLength": 247,
       "PayloadDebugContentSnippet": "<?xml version=\"1.0\" encoding=\"",
       "Inputs": [],
@@ -41172,13 +41158,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1235
+      "DebugActionIndex": 1234
     },
     {
       "Annotation": "WriteText E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v31/styles.xml",
       "DisplayName": "Writing styles.xml",
       "ActionType": "WriteFile",
-      "PayloadOffset": 348847,
+      "PayloadOffset": 349307,
       "PayloadLength": 1201,
       "PayloadDebugContentSnippet": "<?xml version=\"1.0\" encoding=\"",
       "Inputs": [],
@@ -41189,13 +41175,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1236
+      "DebugActionIndex": 1235
     },
     {
       "Annotation": "WriteText E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml",
       "DisplayName": "Writing styles.xml",
       "ActionType": "WriteFile",
-      "PayloadOffset": 350208,
+      "PayloadOffset": 350668,
       "PayloadLength": 703,
       "PayloadDebugContentSnippet": "<?xml version=\"1.0\" encoding=\"",
       "Inputs": [],
@@ -41206,13 +41192,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1237
+      "DebugActionIndex": 1236
     },
     {
       "Annotation": "WriteText E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/colors.xml",
       "DisplayName": "Writing colors.xml",
       "ActionType": "WriteFile",
-      "PayloadOffset": 351071,
+      "PayloadOffset": 351531,
       "PayloadLength": 132,
       "PayloadDebugContentSnippet": "<?xml version=\"1.0\" encoding=\"",
       "Inputs": [],
@@ -41223,13 +41209,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1238
+      "DebugActionIndex": 1237
     },
     {
       "Annotation": "WriteText E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml",
       "DisplayName": "Writing strings.xml",
       "ActionType": "WriteFile",
-      "PayloadOffset": 351360,
+      "PayloadOffset": 351820,
       "PayloadLength": 114,
       "PayloadDebugContentSnippet": "<?xml version=\"1.0\" encoding=\"",
       "Inputs": [],
@@ -41240,7 +41226,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1239
+      "DebugActionIndex": 1238
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/strings.xml",
@@ -41258,7 +41244,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1240
+      "DebugActionIndex": 1239
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml",
@@ -41276,7 +41262,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1241
+      "DebugActionIndex": 1240
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml",
@@ -41294,7 +41280,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1242
+      "DebugActionIndex": 1241
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml",
@@ -41312,7 +41298,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1243
+      "DebugActionIndex": 1242
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml",
@@ -41330,7 +41316,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1244
+      "DebugActionIndex": 1243
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png",
@@ -41348,7 +41334,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1245
+      "DebugActionIndex": 1244
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png",
@@ -41366,7 +41352,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1246
+      "DebugActionIndex": 1245
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
@@ -41384,7 +41370,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1247
+      "DebugActionIndex": 1246
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so",
@@ -41402,13 +41388,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1248
+      "DebugActionIndex": 1247
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_ljux.info",
       "DisplayName": "Writing UnityClassRegistration.cpp_ljux.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 351578,
+      "PayloadOffset": 352038,
       "PayloadLength": 1332,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Cl",
       "Inputs": [],
@@ -41419,7 +41405,7 @@
       "OutputFlags": [
         2
       ],
-      "DebugActionIndex": 1249
+      "DebugActionIndex": 1248
     },
     {
       "Annotation": "ClassRegistrationGenerator E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/artifacts/Android/il2cppOutput/UnityClassRegistration.cpp",
@@ -41515,11 +41501,11 @@
       ],
       "ToBuildDependencies": [
         8,
-        1249
+        1248
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1250
+      "DebugActionIndex": 1249
     },
     {
       "Annotation": "Compile UnityClassRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityClassRegistration.o",
@@ -41542,11 +41528,11 @@
         2
       ],
       "ToBuildDependencies": [
-        1250
+        1249
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1251
+      "DebugActionIndex": 1250
     },
     {
       "Annotation": "ICallRegistrationGenerator E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/artifacts/Android/il2cppOutput/UnityICallRegistration.cpp",
@@ -41629,7 +41615,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1252
+      "DebugActionIndex": 1251
     },
     {
       "Annotation": "Compile UnityICallRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityICallRegistration.o",
@@ -41652,11 +41638,11 @@
         2
       ],
       "ToBuildDependencies": [
-        1252
+        1251
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1253
+      "DebugActionIndex": 1252
     },
     {
       "Annotation": "Link libunity Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so",
@@ -41685,12 +41671,12 @@
         2
       ],
       "ToBuildDependencies": [
-        1251,
-        1253
+        1250,
+        1252
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1254
+      "DebugActionIndex": 1253
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so",
@@ -41711,11 +41697,11 @@
         2
       ],
       "ToBuildDependencies": [
-        1254
+        1253
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1255
+      "DebugActionIndex": 1254
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so",
@@ -41736,11 +41722,11 @@
         2
       ],
       "ToBuildDependencies": [
-        1255
+        1254
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1256
+      "DebugActionIndex": 1255
     },
     {
       "Annotation": "Stripping Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so -> Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so",
@@ -41761,11 +41747,11 @@
         2
       ],
       "ToBuildDependencies": [
-        1254
+        1253
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1257
+      "DebugActionIndex": 1256
     },
     {
       "Annotation": "Adding note Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so -> E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so",
@@ -41790,12 +41776,12 @@
         10
       ],
       "ToBuildDependencies": [
-        1256,
-        1257
+        1255,
+        1256
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1258
+      "DebugActionIndex": 1257
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libmain.so",
@@ -41813,7 +41799,7 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1259
+      "DebugActionIndex": 1258
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libil2cpp.so",
@@ -41834,7 +41820,7 @@
       "ToBuildDependencies": [
         712
       ],
-      "DebugActionIndex": 1260
+      "DebugActionIndex": 1259
     },
     {
       "Annotation": "CopyFiles E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libunity.so",
@@ -41853,15 +41839,15 @@
         10
       ],
       "ToBuildDependencies": [
-        1256
+        1255
       ],
-      "DebugActionIndex": 1261
+      "DebugActionIndex": 1260
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/unity_app_guid_wiiv.info",
       "DisplayName": "Writing unity_app_guid_wiiv.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 353002,
+      "PayloadOffset": 353462,
       "PayloadLength": 1115,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
@@ -41872,7 +41858,7 @@
       "OutputFlags": [
         2
       ],
-      "DebugActionIndex": 1262
+      "DebugActionIndex": 1261
     },
     {
       "Annotation": "GuidGenerator E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid",
@@ -41925,17 +41911,17 @@
       "ToBuildDependencies": [
         5,
         123,
-        1262
+        1261
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1263
+      "DebugActionIndex": 1262
     },
     {
       "Annotation": "WriteText E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/resources/META-INF/com.android.games.engine.build_fingerprint",
       "DisplayName": "Writing com.android.games.engine.build_fingerprint",
       "ActionType": "WriteFile",
-      "PayloadOffset": 354317,
+      "PayloadOffset": 354777,
       "PayloadLength": 78,
       "PayloadDebugContentSnippet": "6000.0.33f1;IL2CPP;Release;Str",
       "Inputs": [],
@@ -41946,13 +41932,13 @@
       "OutputFlags": [
         10
       ],
-      "DebugActionIndex": 1264
+      "DebugActionIndex": 1263
     },
     {
       "Annotation": "ModifyAndroidProjectCallback E:/fails/iT/Isxodnik/Git/SevenTam/SevenTamGame/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml (+8 others)",
       "DisplayName": "Modifying Android Project Files",
       "ActionType": "RunRPCCommand",
-      "PayloadOffset": 354580,
+      "PayloadOffset": 355040,
       "PayloadLength": 2087,
       "PayloadDebugContentSnippet": "{\"AndroidPlayerBuildProgram.Da",
       "Action": "ModifyAndroidProjectCallback",
@@ -42085,12 +42071,12 @@
         0
       ],
       "ToBuildDependencies": [
+        1226,
         1227,
         1228,
-        1229,
-        1232
+        1231
       ],
-      "DebugActionIndex": 1265
+      "DebugActionIndex": 1264
     },
     {
       "Annotation": "Player",
@@ -42669,10 +42655,10 @@
         1222,
         1223,
         1224,
-        1225,
+        1226,
         1227,
         1228,
-        1229,
+        1231,
         1232,
         1233,
         1234,
@@ -42689,13 +42675,12 @@
         1245,
         1246,
         1247,
-        1248,
-        1258,
+        1257,
+        1262,
         1263,
-        1264,
-        1265
+        1264
       ],
-      "DebugActionIndex": 1266
+      "DebugActionIndex": 1265
     }
   ],
   "FileSignatures": [
@@ -43216,8 +43201,8 @@
   "EmitDataForBeeWhy": 0,
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "SourceBuildPlayerFiles": 1230,
-          "Player": 1266
+          "SourceBuildPlayerFiles": 1229,
+          "Player": 1265
         }
 ,  "DefaultNodes": [
     0

@@ -11,7 +11,8 @@ public class ReloadItem : MonoBehaviour
 
     public void MoveToPool()
     {
-        if(itemGenerator.isGenerate == false)
+        
+        if (itemGenerator.isGenerate == false)
         {
             for(int i = 0; i < itemGenerator.typeItemAll.Count; i++)
             {
@@ -23,6 +24,7 @@ public class ReloadItem : MonoBehaviour
                     }
                 }
             }
+            itemGenerator.isGenerate = true;
             StartCoroutine(MoveToSpawn());
         }
     }
@@ -30,6 +32,7 @@ public class ReloadItem : MonoBehaviour
     
     public IEnumerator MoveToSpawn()
     {
+        barItem.ReternItemToGame();
         for (int i = 0; i < itemGenerator.typeItemAll.Count; i++)
         {
             for (int j = 0; j < itemGenerator.typeItemAll[i].itemGame.Count; j++)
@@ -39,8 +42,7 @@ public class ReloadItem : MonoBehaviour
                 itemGenerator.typeItemAll[i].itemGame[j].DizactivItem(true);
             }
         }
-        barItem.identity = 0;
-        barItem.RetrnItemToGame();
-        
+        itemGenerator.isGenerate = false;
+        yield return null;
     }
 }

@@ -133,6 +133,7 @@ public class ItemGenerator : MonoBehaviour
 
 
         yield return null;
+        isGenerate = false;
     }
 }
 

@@ -55,6 +55,14 @@
       "version": "1.0.0",
       "source": "builtin"
     },
+    "com.unity.recorder@5.1.2": {
+      "name": "com.unity.recorder",
+      "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.recorder",
+      "fingerprint": "979a3db2a7818d9c4852c886631b01e394d80af0",
+      "editorCompatibility": "2023.1.1f1",
+      "version": "5.1.2",
+      "source": "registry"
+    },
     "com.unity.render-pipelines.universal@17.0.3": {
       "name": "com.unity.render-pipelines.universal",
       "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.render-pipelines.universal",
@@ -331,6 +339,22 @@
       "version": "17.0.3",
       "source": "builtin"
     },
+    "com.unity.collections@2.5.1": {
+      "name": "com.unity.collections",
+      "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.collections",
+      "fingerprint": "56bff8827a7ef6d44fcee4f36e558a74da89c1a0",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "2.5.1",
+      "source": "registry"
+    },
+    "com.unity.bindings.openimageio@1.0.0": {
+      "name": "com.unity.bindings.openimageio",
+      "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.bindings.openimageio",
+      "fingerprint": "3229d2aa5c76c70269dc58c79d5864ec84fa4a74",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "1.0.0",
+      "source": "registry"
+    },
     "com.unity.2d.animation@10.1.4": {
       "name": "com.unity.2d.animation",
       "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.2d.animation",
@@ -419,14 +443,6 @@
       "version": "1.3.2",
       "source": "registry"
     },
-    "com.unity.collections@2.5.1": {
-      "name": "com.unity.collections",
-      "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.collections",
-      "fingerprint": "56bff8827a7ef6d44fcee4f36e558a74da89c1a0",
-      "editorCompatibility": "2022.3.11f1",
-      "version": "2.5.1",
-      "source": "registry"
-    },
     "com.unity.rendering.light-transport@1.0.1": {
       "name": "com.unity.rendering.light-transport",
       "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.rendering.light-transport",
@@ -434,14 +450,6 @@
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
       "source": "builtin"
-    },
-    "com.unity.2d.common@9.0.7": {
-      "name": "com.unity.2d.common",
-      "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.2d.common",
-      "fingerprint": "bb1fc9b3d81b3bb452c6708e8c088fe4224a0369",
-      "editorCompatibility": "2023.1.0a1",
-      "version": "9.0.7",
-      "source": "registry"
     },
     "com.unity.nuget.mono-cecil@1.11.4": {
       "name": "com.unity.nuget.mono-cecil",
@@ -457,6 +465,14 @@
       "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
       "editorCompatibility": "2020.3.0a1",
       "version": "3.0.3",
+      "source": "registry"
+    },
+    "com.unity.2d.common@9.0.7": {
+      "name": "com.unity.2d.common",
+      "resolvedPath": "E:\\fails\\iT\\Isxodnik\\Git\\SevenTam\\SevenTamGame\\Library\\PackageCache\\com.unity.2d.common",
+      "fingerprint": "bb1fc9b3d81b3bb452c6708e8c088fe4224a0369",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "9.0.7",
       "source": "registry"
     }
   }
