@@ -3,8 +3,10 @@
 		<type fullname="AnimalItemComponent" preserve="nothing"/>
 		<type fullname="BarItem" preserve="nothing"/>
 		<type fullname="DragDrop" preserve="nothing"/>
+		<type fullname="FailGame" preserve="nothing"/>
 		<type fullname="ItemGenerator" preserve="nothing"/>
 		<type fullname="PanelController" preserve="nothing"/>
+		<type fullname="ReloadItem" preserve="nothing"/>
 		<type fullname="WinGame" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.2D.Animation.Runtime">
@@ -120,6 +122,7 @@
 		<type fullname="UnityEngine.Material" preserve="nothing"/>
 		<type fullname="UnityEngine.MonoBehaviour" preserve="nothing"/>
 		<type fullname="UnityEngine.Object" preserve="nothing"/>
+		<type fullname="UnityEngine.PhysicsMaterial2D" preserve="nothing"/>
 		<type fullname="UnityEngine.QualitySettings" preserve="nothing"/>
 		<type fullname="UnityEngine.RectTransform" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.GraphicsSettings" preserve="nothing"/>

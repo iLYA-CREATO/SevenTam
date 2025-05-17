@@ -15,4 +15,18 @@ public class AnimalItemComponent : ItemComponent
     {
         StartCoroutine(TriggerActivate());
     }
+
+    public void DizactivItem(bool isActiv)
+    {
+        if(item != null)
+        {
+            item.SetActive(isActiv);
+        }
+    }
+
+    public void MoveToPosition(Transform position)
+    {
+        item.transform.position = position.position;
+        item.transform.SetParent(position);
+    }
 }

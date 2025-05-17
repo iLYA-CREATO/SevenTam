@@ -4,6 +4,7 @@ using UnityEngine.UI;
 
 public abstract class ItemComponent : MonoBehaviour
 {
+    protected GameObject item;
     public TypeItem typeItem;
     public Rigidbody2D rb;
     public CircleCollider2D circleCollider2D;
@@ -12,6 +13,10 @@ public abstract class ItemComponent : MonoBehaviour
     public Image imageFullRound;
     public Image imageRound;
 
+    private void Start()
+    {
+        item = this.gameObject;
+    }
     protected void SetImageAnimal(Sprite spriteAnimal)
     {
         imageAnimal.sprite = spriteAnimal;

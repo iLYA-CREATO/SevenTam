@@ -6,6 +6,7 @@ using UnityEngine;
 public class BarItem : MonoBehaviour
 {
     public static event Action OnWinGame;
+    public static event Action OnFailGame;
 
     [SerializeField]
     private Transform BaseParent;
@@ -14,9 +15,17 @@ public class BarItem : MonoBehaviour
     private List<Slots> slots;
 
     public int identity = 0;
-    public ItemComponent itemComponentBuffer = null;
-    public List<ItemComponent> itemDestroyed = new List<ItemComponent>();
+    private ItemComponent itemComponentBuffer = null;
+    private List<ItemComponent> itemDestroyed = new List<ItemComponent>();
     public int nextIndex = 0; // 
+
+    /// <summary>
+    /// расортировываются предметы 
+    /// </summary>
+    public List<ItemAllBar> typeItemAll = new List<ItemAllBar>();
+    // Максимальное кол-во предметов в слотах
+    [SerializeField]
+    private int maxItemValue;
     private void OnEnable()
     {
         DragDrop.OnMoveItemToSlot += MoveToSlot;
@@ -30,7 +39,7 @@ public class BarItem : MonoBehaviour
 
     private void  MoveToSlot(GameObject item)
     {
-        ItemComponent itemComponent;
+        ItemComponent itemComponent = null;
         for (int i = 0; i < slots.Count; i++)
         {
             if (slots[i].slot.childCount != 0)
@@ -46,39 +55,86 @@ public class BarItem : MonoBehaviour
                 slots[i].itemComponent = itemComponent;
                 itemComponent.rb.gravityScale = 0f;
                 itemComponent.rb.bodyType = RigidbodyType2D.Static;
-                itemComponent = null;
                 break;
             }
         }
-        CheckThree();
+        
 
-
-        if (identity == 3)
+        for (int j = 0; j < typeItemAll.Count; j++)
         {
-            for (int j = 0; j < itemDestroyed.Count; j++)
+            if (typeItemAll[j].typeItem == itemComponent.typeItem)
             {
-                Debug.Log($"Ты уничтожил: {itemDestroyed[j].typeItem}");
-                Destroy(itemDestroyed[j].gameObject);
+                typeItemAll[j].itemGame.Add(itemComponent);
             }
 
-            itemDestroyed.Clear();
-            identity = 0;
+           
         }
 
+        for (int j = 0; j < typeItemAll.Count; j++)
+        {
+            if (typeItemAll[j].itemGame.Count > 2)
+            {
+                for (int s = 0; s < typeItemAll[j].itemGame.Count; s++)
+                {
+                    Destroy(typeItemAll[j].itemGame[s].gameObject);
+                    continue;
+                }
+                typeItemAll[j].itemGame.Clear();
+            }
+        }
         if (BaseParent.childCount == 0)
             OnWinGame?.Invoke();
+
+        CheckThree();
+        CheckFailGame();
     }
 
+    private void CheckFailGame()
+    {
+        int itemValue = 0;
+        for(int i = 0; i < slots.Count; i++)
+        {
+            if (slots[i].itemComponent != null)
+            {
+                itemValue++;
+            }
+            else
+                return;
+        }
 
+        if(itemValue == maxItemValue)
+        {
+            OnFailGame?.Invoke();
+        }
+    }
 
-  
+    /// <summary>
+    /// Вернём предметы из бара в игру 
+    /// </summary>
+    public void RetrnItemToGame()
+    {
+        for (int j = 0; j < slots.Count; j++)
+        {
+            if(slots[j].itemComponent != null)
+            {
+                slots[j].itemComponent.rb.bodyType = RigidbodyType2D.Dynamic;
+                slots[j].itemComponent.rb.gravityScale = 100f;
+                slots[j].itemComponent = null;
+            }
+        }
+
+        for (int j = 0; j < itemDestroyed.Count; j++)
+        {
+            itemDestroyed[j].transform.SetParent(BaseParent);
+        }
+
+        itemDestroyed = null;
+    }
     /// <summary>
     /// Метод который будет проверять 3 одинаковых предмета в баре
     /// </summary>
     private void CheckThree()
     {
-        if (slots.Count < 3) return;
-
         itemComponentBuffer = null;
         identity = 0;
         itemDestroyed.Clear();
@@ -115,4 +171,11 @@ public class Slots
 {
     public Transform slot;
     public ItemComponent itemComponent;
+}
+
+[Serializable]
+public class ItemAllBar
+{
+    public TypeItem typeItem;
+    public List<ItemComponent> itemGame;
 }

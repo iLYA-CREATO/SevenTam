@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class ItemGenerator : MonoBehaviour
 {
+
+    public bool isGenerate;
     [SerializeField]
     private int maxItemValue;
 
@@ -20,17 +22,16 @@ public class ItemGenerator : MonoBehaviour
     /// <summary>
     /// расортировываются предметы 
     /// </summary>
-    [SerializeField]
-    private List<TypeItemAll> typeItemAll = new List<TypeItemAll>();
+    public List<TypeItemAll> typeItemAll = new List<TypeItemAll>();
 
     TypeItemAll newItem = new TypeItemAll(); // Создаем новый элемент списка
-    AnimalItemComponent animalItemComponent = new AnimalItemComponent();
+    public AnimalItemComponent animalItemComponent = new AnimalItemComponent();
 
 
     [SerializeField]
     private GameObject bufferInstantiate;
-    [SerializeField]
-    private Transform spawnPosition1;
+
+    public Transform spawnPosition;
 
 
     int f = 0;
@@ -39,37 +40,8 @@ public class ItemGenerator : MonoBehaviour
     private float force;
     private void Start()
     {
+        isGenerate = true;
         StartCoroutine(SpawnAllItems());
-    }
-
-    private void CheckItem()
-    {
-        int valueDop = 0;
-        for(int i = 0; i < typeItemAll.Count; i++)
-        {
-            if (typeItemAll[i].itemGame.Count % 3 == 0)
-            {
-
-            }
-            else
-            {
-                valueDop = typeItemAll[i].itemGame.Count % 3;
-                valueDop = 3 - valueDop;
-
-                DopItem(i, valueDop);
-                continue;
-            }
-        }
-    }
-
-    /// <summary>
-    /// 
-    /// </summary>
-    /// <param name="index"> Индекс предмета</param>
-    /// <param name="valueDop"> Количество которое нужно заспавнить</param>
-    private void DopItem(int index, int valueDop)
-    {
-        SpawnDopItems(index, valueDop);
     }
     private IEnumerator SpawnAllItems()
     {
@@ -78,19 +50,12 @@ public class ItemGenerator : MonoBehaviour
             yield return new WaitForSeconds(0.4f); 
             StartCoroutine(Spawner(i, false));
         }
-        //CheckItem();
+        isGenerate = false;
     }
 
-    private void SpawnDopItems(int i, int valueDop)
-    {
-        for(int j = 0; j < valueDop; j++)
-        {
-            StartCoroutine(Spawner(i, true));
-        }
-    }
     private IEnumerator Spawner(int i, bool dopSpawn)
     {
-        bufferInstantiate = Instantiate(prefabItem, spawnPosition1);
+        bufferInstantiate = Instantiate(prefabItem, spawnPosition);
 
         animalItemComponent = bufferInstantiate.GetComponent<AnimalItemComponent>();
         //animalItemComponent.ActivatorTrigger();

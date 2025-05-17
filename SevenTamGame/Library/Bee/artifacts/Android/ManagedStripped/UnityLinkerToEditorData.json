@@ -870,6 +870,14 @@
             "icon": null
           },
           {
+            "name": "PhysicsMaterial2D",
+            "scenes": [
+              "Assets/Scenes/Level.unity"
+            ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
             "name": "PolygonCollider2D",
             "scenes": [],
             "dependencyType": 0,

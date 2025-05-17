@@ -3,7 +3,12 @@
 		<type fullname="PanelController">
 			<method name="LoadLevel"/>
 			<method name="LoadLevel"/>
+			<method name="LoadLevel"/>
 			<method name="RestartLevel"/>
+			<method name="RestartLevel"/>
+		</type>
+		<type fullname="ReloadItem">
+			<method name="MoveToPool"/>
 		</type>
 	</assembly>
 	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
